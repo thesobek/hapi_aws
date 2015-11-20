@@ -4,7 +4,7 @@
   "description": "AWS deployment test",
   "main": "index.js",
   "dependencies": {
-    "hapi": "^11.1.1"
+    "hapi": "^8.8.1"
   },
   "devDependencies": {},
   "scripts": {
