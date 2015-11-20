@@ -9,7 +9,6 @@ server.route({
     method: 'GET',
     path: '/',
     handler: function (request, reply) {
-        console.log(server.info);
         reply(server.info);
     }
 });
